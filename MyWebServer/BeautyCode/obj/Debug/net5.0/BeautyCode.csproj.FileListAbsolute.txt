@@ -1,0 +1,16 @@
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\bin\Debug\net5.0\BeautyCode.exe
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\bin\Debug\net5.0\BeautyCode.deps.json
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\bin\Debug\net5.0\BeautyCode.runtimeconfig.json
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\bin\Debug\net5.0\BeautyCode.runtimeconfig.dev.json
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\bin\Debug\net5.0\BeautyCode.dll
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\bin\Debug\net5.0\ref\BeautyCode.dll
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\bin\Debug\net5.0\BeautyCode.pdb
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.csproj.AssemblyReference.cache
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.AssemblyInfoInputs.cache
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.AssemblyInfo.cs
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.csproj.CoreCompileInputs.cache
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.dll
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\ref\BeautyCode.dll
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.pdb
+C:\Programing\CSharp-Web-Server\CSharp-Web-Server\CSharpWebServer\MyWebServer\BeautyCode\obj\Debug\net5.0\BeautyCode.genruntimeconfig.cache
