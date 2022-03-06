@@ -29,6 +29,29 @@ namespace BeautyCode
 
                 var networkStream = connection.GetStream();
 
+                var bufferLenght = 1024;
+                var buffer = new byte[bufferLenght];
+
+                var totalBytesRead = 0;
+
+                var requestBuilder = new StringBuilder();
+
+                while (networkStream.DataAvailable)
+                {
+                    var bytesRead = await networkStream.ReadAsync(buffer, 0, bufferLenght);
+
+                    totalBytesRead += bytesRead;
+
+                    if (totalBytesRead > 10 * 1024)
+                    {
+                        connection.Close();
+                    }
+
+                    requestBuilder.Append(Encoding.UTF8.GetString(buffer, 0, bytesRead));
+                }
+
+                Console.WriteLine(requestBuilder);
+
                 var content = "Hi";
                 var contentLength = Encoding.UTF8.GetByteCount(content);
 
