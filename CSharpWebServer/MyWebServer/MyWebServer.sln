@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautyCode", "BeautyCode\BeautyCode.csproj", "{FD25A00B-F8F3-4D01-857C-7199B7E844BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautyCode", "BeautyCode\BeautyCode.csproj", "{FD25A00B-F8F3-4D01-857C-7199B7E844BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebServer.Server", "MyWebServer.Server\MyWebServer.Server.csproj", "{B6F6F2DB-FF5A-47BF-81F2-7560A01FB272}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FD25A00B-F8F3-4D01-857C-7199B7E844BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD25A00B-F8F3-4D01-857C-7199B7E844BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD25A00B-F8F3-4D01-857C-7199B7E844BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F6F2DB-FF5A-47BF-81F2-7560A01FB272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F6F2DB-FF5A-47BF-81F2-7560A01FB272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F6F2DB-FF5A-47BF-81F2-7560A01FB272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F6F2DB-FF5A-47BF-81F2-7560A01FB272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
