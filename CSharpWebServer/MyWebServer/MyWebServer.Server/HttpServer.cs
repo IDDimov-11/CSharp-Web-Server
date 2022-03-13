@@ -15,7 +15,7 @@ namespace MyWebServer.Server
         public HttpServer(string ipAddress, int port)
         {
             this.ipAddress = IPAddress.Parse(ipAddress);
-            this.port = 9090;
+            this.port = port;
 
             listener = new TcpListener(this.ipAddress, port);
         }
@@ -74,7 +74,18 @@ namespace MyWebServer.Server
         private async Task WriteResponse(NetworkStream networkStream)
         {
 
-            var content = "Hi";
+            //var content = "Hi";
+            // to prevent fav icon error
+            var content = @"
+<html>
+    <head>        
+        <link rel=""icon"" href=""data:,"">
+    </head>
+    <body>
+        Hello from IDD
+    </body>
+</html>";
+
             var contentLength = Encoding.UTF8.GetByteCount(content);
 
             var response = $@"HTTP/1.1 200 OK 
